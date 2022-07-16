@@ -1,4 +1,7 @@
-
+<h1>Olá sou a <i>Kamilla Lima :star:</i></h1>
+<p>Intercalando entre chorar com javascript e chorar com listas no python</p>
+<h2>:computer:FIAP - Análise e desenvolvimento de sistemas 1/4</h2>
+<br>
 <div align="center">
   <a href="https://github.com/KamillaLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamillaLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
