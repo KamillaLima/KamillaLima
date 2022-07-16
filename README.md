@@ -1,5 +1,4 @@
-<h1>Olá sou a <i>Kamilla Lima :star:</i></h1>
-<p>Intercalando entre chorar com javascript e chorar com listas no python</p>
+<h1>Olá sou a <i>Kamilla Lima :sparkles:</i></h1>
 <h2>:computer:FIAP - Análise e desenvolvimento de sistemas 1/4</h2>
 <br>
 <div align="center">
