@@ -4,8 +4,8 @@
 <br>
 <div align="left">
   <a href="https://github.com/KamillaLima">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=KamillaLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="253em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamillaLima&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=KamillaLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamillaLima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Kami-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
