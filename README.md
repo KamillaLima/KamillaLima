@@ -12,7 +12,7 @@
   <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamillaLima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <p>👓:Meus conhecimentos : </p>
+  <p>👓Meus conhecimentos</p>
   <img align="center" alt="Kami-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kami-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kami-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,4 +21,8 @@
   <img align="center" alt="Kami-SQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
    <img  align="center" alt="Kami-Csharp" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img align="center" alt="Kami-Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
+  <img align="center" alt="Kami-SqlServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+   <img  align="center" alt="Kami-trello" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+    <img align="center" alt="Kami-dotnet" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+    <img align="center" alt="Kami-mongo" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
