@@ -19,6 +19,6 @@
   <img align="center" alt="Kami-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kami-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Kami-SQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-    <img align="center" alt="Kami-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg"> 
+   <img  align="center" alt="Kami-Csharp" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img align="center" alt="Kami-Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
 </div>
