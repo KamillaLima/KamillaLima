@@ -4,7 +4,8 @@
 <a href="https://www.instagram.com/kamillalima86/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kamillarodrigues/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
-<p>Acompanhe meu desenvolvimento aqui no linkedin !</p>
+<br>
+<p>Acompanhe meu desenvolvimento aqui no github !</p>
 <div align="left">
   <a href="https://github.com/KamillaLima">
   <img height="260em" src="https://github-readme-stats.vercel.app/api?username=KamillaLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
