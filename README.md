@@ -1,6 +1,6 @@
 <h1>Olá sou a <i>Kamilla Lima :sparkles:</i></h1>
 <h2>:computer:Sou formada em análise e desenvolvimento de sistemas pela FIAP !</h2>
-<h2>:hearts:Apaixonada por tecnologia e inovação!</h2>
+<h3>:hearts:Apaixonada por tecnologia e inovação!</h3>
 <a href="https://www.instagram.com/kamillalima86/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kamillarodrigues/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
