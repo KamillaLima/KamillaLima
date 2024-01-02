@@ -5,6 +5,7 @@
 <h3>🧑‍🍳Fascinada por culinária</h3>
 <a href="https://www.instagram.com/kamillalima86/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kamillarodrigues/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://letterboxd.com/KamillaLima/" target="_blank"><img src="https://img.shields.io/badge/-Letterboxd-%23E4405F?style=for-the-badge&logo=letterboxd&logoColor=white" target="_blank"></a>
 <br>
 <br>
 <p>Acompanhe meu desenvolvimento aqui no github !</p>
