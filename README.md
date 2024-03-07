@@ -11,7 +11,7 @@
 <p>Acompanhe meu desenvolvimento aqui no github !</p>
 <div align="left">
   <a href="https://github.com/KamillaLima">
-  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=KamillaLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   <img height="262em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamillaLima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
