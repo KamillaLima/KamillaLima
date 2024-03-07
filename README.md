@@ -8,7 +8,6 @@
 <a href="https://www.skoob.com.br/usuario/10166297" target="_blank"><img src="https://img.shields.io/badge/-Skoob-%23E4405F?style=for-the-badge&logo=skoob&logoColor=white" target="_blank"></a>
 <br>
 <br>
-<p>Acompanhe meu desenvolvimento aqui no github !</p>
 <div align="left">
   <a href="https://github.com/KamillaLima">
 
