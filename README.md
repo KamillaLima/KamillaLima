@@ -2,7 +2,7 @@
 <h3>:computer:Sou formada em análise e desenvolvimento de sistemas pela FIAP !</h3>
 <h3>:hearts:Apaixonada por tecnologia e inovação! </h3>
 <h3>📺Viciada em Sitcom</h3>
-<h3>:cook:Fascinada por culinária</h3>
+<h3>:cook:Fascinada por culinária</h3> 
 <a href="https://www.linkedin.com/in/kamillarodrigues/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://letterboxd.com/KamillaLima/" target="_blank"><img src="https://img.shields.io/badge/-Letterboxd-%23E4405F?style=for-the-badge&logo=letterboxd&logoColor=white" target="_blank"></a>
 <a href="https://www.skoob.com.br/usuario/10166297" target="_blank"><img src="https://img.shields.io/badge/-Skoob-%23E4405F?style=for-the-badge&logo=skoob&logoColor=white" target="_blank"></a>
