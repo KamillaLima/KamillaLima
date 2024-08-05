@@ -1,4 +1,4 @@
-<h1>Olá sou a <i>Kamilla Lima :sparkles:</i></h1>
+<h1>Olá sou a <i>Kamilla Lima :sparkles:</i></h1> 
 <h3>:computer:Sou formada em análise e desenvolvimento de sistemas pela FIAP !</h3>
 <h3>:hearts:Apaixonada por tecnologia e inovação! </h3>
 <h3>📺Viciada em Sitcom</h3>
